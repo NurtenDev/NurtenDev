@@ -1,5 +1,5 @@
-# align="center">Hi 👋, I'm Nurten Polat</h1>
-## align="center">HTML & CSS & React & JavaScript & Bootstrap</h3>
+# I'm Nurten Polat
+## HTML & CSS & React & JavaScript & Bootstrap
 
 ### Connect with me:
 <p align="left">
